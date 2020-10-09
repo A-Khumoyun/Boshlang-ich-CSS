@@ -1,0 +1,106 @@
+body{
+    height: 1000px
+}
+.container{
+   
+    width: 70%;
+    margin: auto;
+    
+}
+.box1{
+    text-align: center;
+    border:  solid red;
+    background-color: #555;
+}
+.box2,h1,p{
+    color: blue;
+}
+.box2{
+    background-color: white;
+    border: 5px dashed blue;
+    margin-top: 30px
+}
+.button{
+  background-color: black;
+    color: white;
+   padding: 5px;
+text-align: center}
+.button:hover{
+    background-color: red;
+    cursor: pointer;
+    border-radius: 22%;
+    
+}
+.categories{
+    border: solid red;margin-top: 15px;
+    
+}
+.categories h1{
+    text-align: center;
+    color: chocolate
+    
+}
+.categories li{
+    list-style-type: none;
+    padding-bottom: 5px;
+    border-bottom: 3px solid black;
+    
+    }
+.box3{
+    margin-top: 30px;
+}
+
+
+.box3 label{
+    display: block;
+    padding: 5px;
+    font-family: sans-serif;
+    
+}
+.box3 input, textarea{
+    width: 100%;
+}
+.block{
+    float: left;
+    width: 33.3%;
+    padding: 10px;
+    border: 1px solid #555;
+    box-sizing: border-box
+}
+.clr{
+    clear: both
+}
+footer {
+ background-color: cadetblue;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serifacti;
+    margin-top: 10px;
+}
+.content{
+    width: 70%;
+    float: left
+}
+.soidbor{
+    float: left;
+    width: 30%;
+    background-color: #555;
+    box-sizing: border-box;
+    color: black;
+    padding: 0px 5px
+    
+}
+.soidbor p{
+    color: black
+}
+
+
+
+
+
+
+
+
+
+
+
